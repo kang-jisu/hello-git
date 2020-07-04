@@ -15,3 +15,7 @@ function multiple(a,b){
 	console.log("multiple result: "+ret)
 	return a*b
 }
+
+function hello(){
+	console.log("오류나라!!")
+}
