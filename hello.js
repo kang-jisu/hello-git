@@ -16,9 +16,14 @@ function multiple(a,b){
 	return a*b
 }
 
+
 function hi(){
 	console.log("흠")
 }
+function bye(){
+	console.log("bye bye")
+}
+
 function hello(){
 	console.log("오류나라!!")
 }
