@@ -9,3 +9,7 @@ function minus(a,b){
 function multiple(a,b){
 	return a*b
 }
+
+function hello(){
+	console.log("오류나라!!")
+}
