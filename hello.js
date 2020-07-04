@@ -9,3 +9,7 @@ function minus(a,b){
 	console.log("minus result: "+ret)
 	return a-b
 }
+
+function multiple(a,b){
+	return a*b
+}
