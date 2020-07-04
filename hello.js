@@ -11,5 +11,7 @@ function minus(a,b){
 }
 
 function multiple(a,b){
+	var ret = a*b
+	console.log("multiple result: "+ret)
 	return a*b
 }
