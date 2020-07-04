@@ -16,6 +16,10 @@ function multiple(a,b){
 	return a*b
 }
 
+function bye(){
+	console.log("bye bye")
+}
+
 function hello(){
 	console.log("오류나라!!")
 }
